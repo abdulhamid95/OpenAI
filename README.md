@@ -1,10 +1,4 @@
 <div dir="rtl">
-<h1> مسار تطوير أساسيات تعلم بناء التطبيقات باستخدام OpenAI </h1>
-<p>الشيفرة المصدرية الخاصة بمسار تطوير أساسيات تعلم بناء التطبيقات باستخدام OpenAI ضمن دورة "دورة تطوير التطبيقات باستخدام JavaScript" المقدمة من أكاديمية حسوب</p>
-
-<div>
-<a href="https://academy.hsoub.com/learn/javascript-application-development/">دورة تطوير التطبيقات باستخدام JavaScript</a>
-</div>
 
 <h2> خطوات التثبيت </h2>
 <ul dir="ltr">
